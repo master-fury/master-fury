@@ -6,7 +6,7 @@ I ship production GenAI: LLM platforms, fine-tuning, and inference @ scale.
 
 👯 I’m open to collaborating on open-source GenAI projects.
 
-🔗 [Portfolio](https://master-fury.github.io/) · [LinkedIn](https://linkedin.com/in/master-fury)
+🔗 [Portfolio](https://master-fury.github.io/) · <img width="22" height="20" alt="image" src="https://github.com/user-attachments/assets/5c0f7343-ff10-428c-acd9-7b04590e3f42" />  [LinkedIn](https://linkedin.com/in/master-fury)
 
 
 <!--
