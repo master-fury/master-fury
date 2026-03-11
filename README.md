@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I’m Manish 👋
+
+I ship production GenAI: LLM platforms, fine-tuning, and inference @ scale.
+
+💬 Ask me about production RAG systems, SLMs, AI Agents, evals, LoRA/QLoRA, or production AI infra.
+
+👯 I’m open to collaborating on open-source GenAI projects.
+
+🔗 [Portfolio](https://master-fury.github.io/) · [LinkedIn](https://linkedin.com/in/master-fury)
+
 
 <!--
 **master-fury/master-fury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
